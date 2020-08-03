@@ -1,2 +1,2 @@
-# kog-kingofgames.github.io
+# KOG-KingOfGames
 Сайт KOG-KingOfGames
