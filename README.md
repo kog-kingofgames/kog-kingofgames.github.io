@@ -1,2 +1,1 @@
-# KOG-KingOfGames
-Сайт KOG-KingOfGames
+**KOG-KingOfGames**
